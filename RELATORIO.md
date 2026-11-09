@@ -38,7 +38,7 @@ Opção escolhida: **D) Gerenciar livros lidos/desejados/top5. Compartilhar imag
 | `lib/widgets/ranking_card.dart` | Visual do card que vira imagem |
 
 ### Problemas encontrados / observações
-- (preencher conforme os testes no emulador/celular)
+- Erro "Building with plugins requires symlink support" no Windows: o Modo de Desenvolvedor estava desligado. Solução: rodar no Chrome com `flutter run -d chrome`.
 
 ## Próximos passos
 - [ ] Testar no celular e anotar erros
